@@ -1,0 +1,7 @@
+add_subdirectory(blitter/)
+add_subdirectory(cia/)
+add_subdirectory(m68k/)
+add_subdirectory(mmu/)
+add_subdirectory(sound/)
+add_subdirectory(timer/)
+add_subdirectory(TTL74LS148/)
